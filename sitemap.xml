@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<!-- 	created with www.mysitemapgenerator.com	 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://digital-website-av.vercel.app/</loc>
-  <lastmod>2026-06-18T03:59:08+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://digital-website-av.vercel.app/</loc>
+<lastmod>2026-06-18T06:07:48+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://digital-website-av.vercel.app/portfolio.html</loc>
-  <lastmod>2026-06-18T03:59:08+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://digital-website-av.vercel.app/portfolio.html</loc>
+<lastmod>2026-06-18T06:07:48+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://digital-website-av.vercel.app/index.html</loc>
-  <lastmod>2026-06-18T03:59:09+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://digital-website-av.vercel.app/index.html</loc>
+<lastmod>2026-06-18T06:07:48+01:00</lastmod>
+<priority>1.0</priority>
 </url>
-
-
 </urlset>
